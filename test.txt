@@ -11,3 +11,6 @@ this is just a test file to learn git push from local to git repository
 </ul>
 
 <p>this is a paragraph</p>
+
+<div>adding div tags</div>
+<h1>adding h1 tags</h1>
